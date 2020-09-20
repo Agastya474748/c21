@@ -1,3 +1,2 @@
-# bounceOffAlgorithm
-Algorithm to bounce off two objects
-https://agastya474748.github.io/c21/
+# p5.play-boilerplate
+Boiler plate for p5.play
